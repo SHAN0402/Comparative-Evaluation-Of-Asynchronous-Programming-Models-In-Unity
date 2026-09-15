@@ -1,0 +1,504 @@
+{
+  "StressAsync": {
+    "0": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "1": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "2": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "3": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "4": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "5": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "6": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "7": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "8": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "9": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "10": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "11": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "12": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "13": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "14": {
+      "TotalMemory": 87,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "15": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "16": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "17": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "18": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "19": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "20": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "21": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "22": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "23": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "24": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "25": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "26": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "27": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "28": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "29": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "30": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "31": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "32": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "33": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "34": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "35": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "36": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "37": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "38": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "39": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "40": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "41": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "42": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "43": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "44": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "45": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "46": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "47": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "48": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "49": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "50": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "51": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "52": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "53": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "54": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "55": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "56": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "57": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "58": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "59": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "60": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "61": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "62": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "63": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "64": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "65": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "66": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "67": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "68": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "69": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "70": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "71": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "72": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "73": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "74": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "75": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "76": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "77": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "78": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "79": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "80": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "81": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "82": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "83": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "84": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "85": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "86": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "87": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "88": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "89": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "90": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "91": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "92": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "93": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "94": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "95": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "96": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "97": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "98": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    },
+    "99": {
+      "TotalMemory": 0,
+      "GCMemory": 0,
+      "GCAlloc": 2960
+    }
+  }
+}
